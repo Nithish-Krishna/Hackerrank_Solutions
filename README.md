@@ -9,13 +9,13 @@ If you found this helpful, consider following me and giving a star :)
 
 Introduction                   | Problem                                                                      | Solution
 -------------                  | -------                                                                      | --------
-Say Hello, World! With Python  | [Problem](https://www.hackerrank.com/challenges/py-hello-world)              | Solution
-Python If-Else                 | [Problem](https://www.hackerrank.com/challenges/py-if-else)                  | Solution
-Arithmetic Operators           | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators) | Solution
-Python Division                | [Problem](https://www.hackerrank.com/challenges/python-division)             | Solution
-Write a function               | [Problem](https://www.hackerrank.com/challenges/write-a-function)            | Solution
-Print Function                 | [Problem](https://www.hackerrank.com/challenges/python-print)                | Solution
-Loops                          | [Problem](https://www.hackerrank.com/challenges/python-loops)                | Solution
+Say Hello, World! With Python  | [Problem](https://www.hackerrank.com/challenges/py-hello-world)              | [Solution](https://github.com/Nithish-Krishna/Hackerrank_Solutions/blob/main/Practice-Python/Introduction/Say%20Hello%20World!%20With%20Python)
+Python If-Else                 | [Problem](https://www.hackerrank.com/challenges/py-if-else)                  | [Solution]()
+Arithmetic Operators           | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Solution]()
+Python Division                | [Problem](https://www.hackerrank.com/challenges/python-division)             | [Solution]()
+Write a function               | [Problem](https://www.hackerrank.com/challenges/write-a-function)            | [Solution]()
+Print Function                 | [Problem](https://www.hackerrank.com/challenges/python-print)                | [Solution]()
+Loops                          | [Problem](https://www.hackerrank.com/challenges/python-loops)                | [Solution]()
 
 - - - -
 
