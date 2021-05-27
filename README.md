@@ -2,6 +2,7 @@
 This repository contains solutions to Hackerrank practice problems with Python 3 which are 100% working.
 
 All of the solutions here are completely authored by me, you are free to use this if you are stuck on a problem.
+Each table below represents a sub-domain.
 
 If you found this helpful, consider following me and giving a star :)
 
