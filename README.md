@@ -5,7 +5,7 @@ All of the solutions here are completely authored by me, you are free to use thi
 
 If you found this helpful, consider following me and giving a star :)
 
- - - - -
+- - - -
 
 Introduction                   | Problem                                                                      | Solution
 -------------                  | -------                                                                      | --------
@@ -16,4 +16,6 @@ Python Division                | [Problem](https://www.hackerrank.com/challenges
 Write a function               | [Problem](https://www.hackerrank.com/challenges/write-a-function)            | Solution
 Print Function                 | [Problem](https://www.hackerrank.com/challenges/python-print)                | Solution
 Loops                          | [Problem](https://www.hackerrank.com/challenges/python-loops)                | Solution
+
+- - - -
 
