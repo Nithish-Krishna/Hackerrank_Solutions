@@ -1,0 +1,6 @@
+n = int(input())
+arr = map(int, input().split())
+x=list(set(arr))
+x.sort()
+x.pop()
+print(max(x))
