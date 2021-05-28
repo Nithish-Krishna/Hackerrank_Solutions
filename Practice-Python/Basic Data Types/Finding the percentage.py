@@ -6,8 +6,14 @@ if __name__ == '__main__':
         scores = list(map(float, line))
         student_marks[name] = scores
     query_name = input()
-
-if n == 2:
-    print("26.50")
-elif n == 3:
-    print("56.00")
+    
+    
+    for key, value in student_marks.items():
+        if query_name == key:
+            sum = 0
+            count = 0
+            for i in value:
+                sum += i
+                count += 1
+            average = sum/count
+            print("{:.2f}".format(average))
