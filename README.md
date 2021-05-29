@@ -25,3 +25,17 @@ Basic Data Types  |  Easy  |  List Comprehensions        | [Problem](https://www
 Basic Data Types  |  Easy  |  Find the Runner-Up Score!  | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | [Solution](https://github.com/Nithish-Krishna/Hackerrank_Solutions/blob/main/Practice-Python/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!.py)   
 Basic Data Types  |  Easy  |  Nested Lists               | [Problem](https://www.hackerrank.com/challenges/nested-list)                          | [Solution]  
 Basic Data Types  |  Easy  |  Finding the percentage     | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage)               | [Solution](https://github.com/Nithish-Krishna/Hackerrank_Solutions/blob/main/Practice-Python/Basic%20Data%20Types/Finding%20the%20percentage.py)  
+Strings  |  Easy    |  sWAP cASE              |  [Problem]  |  [Solution]  | 
+Strings  |  Easy    |  String Split and Join  |  [Problem]  |  [Solution]  |  
+Strings  |  Easy    |  What's Your Name?      |  [Problem]  |  [Solution]  |
+Strings  |  Easy    |  Mutations              |  [Problem]  |  [Solution]  |
+Strings  |  Easy    |  Find a String          |  [Problem]  |  [Solution]  |
+Strings  |  Easy    |  String Validators      |  [Problem]  |  [Solution]  |
+Strings  |  Easy    |  Text Alignment         |  [Problem]  |  [Solution]  |
+Strings  |  Easy    |  Text Wrap              |  [Problem]  |  [Solution]  |
+Strings  |  Easy    |  Designer Door Mat      |  [Problem]  |  [Solution]  |
+Strings  |  Easy    |  String Formatting      |  [Problem]  |  [Solution]  |
+Strings  |  Easy    |  Alphabet Rangoli       |  [Problem]  |  [Solution]  |
+Strings  |  Easy    |  Capitalize!            |  [Problem]  |  [Solution]  |
+Strings  |  Medium  |  The Minion Game        |  [Problem]  |  [Solution]  |
+Strings  |  Medium  |  Merge the Tools!       |  [Problem]  |  [Solution]  |
